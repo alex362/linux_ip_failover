@@ -1,5 +1,6 @@
 # linux_ip_failover.sh
 Objective
+
 Host extra IP address on systems. Only one machine owns that IP address at a time, if one fails the other will take over the same IP address.
 
 Detailed design
